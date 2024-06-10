@@ -1,2 +1,2 @@
-# alpaco3
+# FunnyWorld
  ai school 3
