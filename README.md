@@ -1,2 +1,2 @@
 # FunnyWorld
- ai school 3
+오늘부터 AI School
